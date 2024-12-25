@@ -1,25 +1,18 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-## 📫 How to reach me: 
+My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am truly interested in Artificial Intelligence, especially in Machine Learning and Deep Learning.<br>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
-
-
-
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/chikien07012006/NLP_Career_Levels_Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=NLP_Career_Levels_Classification&theme=radical" />
 </a>    
-<a href="https://github.com/vietnh1009/ASCII-generator/">
+<a href="https://github.com/chikien07012006/CNN-Cifar10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=CNN-Cifar10&theme=merko" />
 </a>
 
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+<a href="[https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/](https://github.com/chikien07012006/Guitar_Amaze)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=Guitar_Amaze&theme=gruvbox" />
 </a>    
 <a href="https://github.com/vietnh1009/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
