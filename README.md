@@ -5,14 +5,17 @@ My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=NLP_Career_Levels_Classification&theme=radical" />
 </a>    
+
 <a href="https://github.com/chikien07012006/CNN-Cifar10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=CNN-Cifar10&theme=merko" />
 </a>
+
 <a href="[https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/](https://github.com/chikien07012006/Guitar_Amaze)">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=Guitar_Amaze&theme=gruvbox" />
 </a>    
+
 <a href="https://github.com/chikien07012006/Sign_Speak">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=Sign_Speak&theme=dark" />
@@ -21,7 +24,8 @@ My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am 
 <a href="https://github.com/vietnh1009/Flappy-bird-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
+</a>  
+
 <a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
