@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am truly interested in Artificial Intelligence, especially in Machine Learning and Deep Learning.<br>
+My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am truly interested in Artificial Intelligence, especially in Machine Learning and Deep Learning<br>
 
 <a href="https://github.com/chikien07012006/NLP_Career_Levels_Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
