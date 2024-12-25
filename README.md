@@ -3,7 +3,7 @@ My name is Chi Kien. I am a Freshman in Computer Science at VinUniversity. I am 
 
 <a href="https://github.com/chikien07012006/NLP_Career_Levels_Classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=NLP_Career_Levels_Classification&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=&theme=radical" />
 </a>    
 <a href="https://github.com/chikien07012006/CNN-Cifar10">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
