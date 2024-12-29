@@ -26,6 +26,11 @@ My name is Chi Kien. I am a Freshman in Computer Science from VinUniversity. I a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chikien07012006&repo=CNN-Mnist&theme=onedark" />
 </a>  
 
+<a href="https://github.com/chikien07012006/Competitive_Prog">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chikien07012006&repo=Competitive_Prog&theme=radical" />
+</a>
+
 <a href="https://github.com/chikien07012006/Diabetes_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=chikien07012006&repo=Diabetes_Prediction&theme=cobalt" />
