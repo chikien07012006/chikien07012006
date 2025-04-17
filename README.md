@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Chi Kien. I am a Freshman in Computer Science from VinUniversity. I am truly interested in Artificial Intelligence, especially the field of Machine Learning and Deep Learning.<be>
+My name is Chi Kien, a Freshman in Computer Science from VinUniversity. I am truly interested in Artificial Intelligence, especially the field of Machine Learning and Deep Learning. I love immersing myself in knowledge and applying what I have learnt in solving real-world problems.<be>
 <!--
 <a href="https://github.com/chikien07012006/My-CV">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
